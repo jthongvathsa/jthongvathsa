@@ -10,7 +10,7 @@
     
 <h2>📃 Certifications:</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cisco Certified Network Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
