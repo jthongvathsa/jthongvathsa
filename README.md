@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/Networking Portfolio:</h2>
 
-- [Small Business Network](https://github.com/jthongvathsa/LABURL)
+- [Small Business Network]([https://github.com/jthongvathsa/LABURL](https://github.com/jthongvathsa/Small-Business-Network-))
     
 <h2>📃 Certifications:</h2>
 
