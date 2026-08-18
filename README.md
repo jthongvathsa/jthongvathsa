@@ -2,15 +2,11 @@
 
 <h2>👨‍💻 IT/Networking Portfolio:</h2>
 
-- [Technical Support Fundamentals](https://github.com/jthongvathsa/LABURL)
-- [Computer Networking](https://github.com/jthongvathsa/LABURL)
-- [Operating Systems](https://github.com/jthongvathsa/LABURL)
-- [System Administration](https://github.com/jthongvathsa/LABURL)
-- [IT Security](https://github.com/jthongvathsa/LABURL)
+- [Small Business Network](https://github.com/jthongvathsa/LABURL)
     
 <h2>📃 Certifications:</h2>
 
-- [Cisco Certified Network Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cisco Certified Network Associate (Expected 11/26)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
