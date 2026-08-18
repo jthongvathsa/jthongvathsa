@@ -1,6 +1,6 @@
 <h1>Hi, I'm Juno! </h1>
 
-<h2>👨‍💻 Google IT Support Portfolio:</h2>
+<h2>👨‍💻 IT/Networking Portfolio:</h2>
 
 - [Technical Support Fundamentals](https://github.com/jthongvathsa/LABURL)
 - [Computer Networking](https://github.com/jthongvathsa/LABURL)
