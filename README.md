@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/Networking Portfolio:</h2>
 
-- [No projects yet](https://github.com/jthongvathsa/Small-Business-Network-)
+- [No projects yet](https://github.com/meow)
     
 <h2>📃 Certifications:</h2>
 
