@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 IT/Networking Portfolio:</h2>
 
-- [Small Business Network](https://github.com/jthongvathsa/Small-Business-Network-)
+- [No projects yet](https://github.com/jthongvathsa/Small-Business-Network-)
     
 <h2>📃 Certifications:</h2>
 
-- [Cisco Certified Network Associate (Expected 11/26)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Comptia Net+ (in progress)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
