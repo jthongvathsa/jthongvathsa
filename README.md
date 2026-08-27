@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/Networking Portfolio:</h2>
 
-- [No projects yet](https://github.com/username)
+- [Home Network Installation and Troubleshooting Lab](https://github.com/username)
     
 <h2>📃 Certifications:</h2>
 
