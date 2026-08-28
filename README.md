@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/Networking Portfolio:</h2>
 
-- [Home Network Installation and Troubleshooting Lab](https://github.com/jthongvathsa/Home-Network-Installation-and-Troubleshooting-Lab/blob/main/README.md)
+- [Home Network Installation and Troubleshooting Lab](https://github.com/jthongvathsa/Home-Network-Installation-and-Troubleshooting-Lab)
     
 <h2>📃 Certifications:</h2>
 
